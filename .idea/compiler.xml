@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="WebAutomationFramework_PNT2021" />
+        <module name="TDBank" />
+        <module name="CNN" />
+        <module name="Amazon" />
+        <module name="Cigna" />
+        <module name="Generic" />
       </profile>
     </annotationProcessing>
   </component>
