@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class LearnDataReader {
     /*
-        Path/ Location:
+        Path/ Location to get to:
             - Absolute Path: Full Path: path only works on your computer
             C:\Users\Easha\IdeaProjects\PnTSession\DataTest
             -Relative Path:Path/Partial Path
